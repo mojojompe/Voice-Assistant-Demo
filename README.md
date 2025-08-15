@@ -21,9 +21,7 @@ Why Amigo:
 * You can easily add your command.
 
 
-### Built With
-
-* Python
+### Built With Python
 
 
 
